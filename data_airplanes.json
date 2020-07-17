@@ -5,5 +5,813 @@
     "speed": 987,
     "pax": 230,
     "fuel": 19.57
+  },
+  "B377-stratocruiser": {
+    "range": 6760,
+    "runway": 8600,
+    "speed": 574,
+    "pax": 117,
+    "fuel": 29.0,
+    "price": 788066
+  },
+  "B727-100 (PW JT8D-9)": {
+    "range": 3056,
+    "runway": 8300,
+    "speed": 1009,
+    "pax": 131,
+    "fuel": 13.0,
+    "price": 1364217
+  },
+  "B727-100 (PW JT8D-7)": {
+    "range": 3056,
+    "runway": 8300,
+    "speed": 917,
+    "pax": 131,
+    "fuel": 12.48,
+    "price": 1364217
+  },
+  "B737-100": {
+    "range": 3440,
+    "runway": 7550,
+    "speed": 796,
+    "pax": 118,
+    "fuel": 12.12,
+    "price": 1514699
+  },
+  "B737-200C (PW JT8D-7)": {
+    "range": 4622,
+    "runway": 7550,
+    "speed": 772,
+    "pax": 110,
+    "fuel": 13.44,
+    "price": 1580983
+  },
+  "B737-200C (PW JT8D-9)": {
+    "range": 4622,
+    "runway": 7550,
+    "speed": 796,
+    "pax": 110,
+    "fuel": 15.12,
+    "price": 1580983
+  },
+  "B737-200C (PW JT8D-9A)": {
+    "range": 4622,
+    "runway": 7550,
+    "speed": 788,
+    "pax": 110,
+    "fuel": 14.84,
+    "price": 1580983
+  },
+  "B737-500": {
+    "range": 4449,
+    "runway": 7550,
+    "speed": 718,
+    "pax": 123,
+    "fuel": 11.7,
+    "price": 1856353
+  },
+  "B737-200Adv (PW JT8D-15)": {
+    "range": 5473,
+    "runway": 7550,
+    "speed": 741,
+    "pax": 102,
+    "fuel": 12.48,
+    "price": 1893733
+  },
+  "B737-200Adv (PW JT8D-15A)": {
+    "range": 5473,
+    "runway": 7550,
+    "speed": 874,
+    "pax": 102,
+    "fuel": 14.17,
+    "price": 1893733
+  },
+  "B737-200Adv (PW JT8D-17)": {
+    "range": 5473,
+    "runway": 7550,
+    "speed": 772,
+    "pax": 102,
+    "fuel": 12.22,
+    "price": 1893733
+  },
+  "B737-200Adv (PW JT8D-17A)": {
+    "range": 5473,
+    "runway": 7550,
+    "speed": 733,
+    "pax": 102,
+    "fuel": 12.09,
+    "price": 1893733
+  },
+  "B737-200Adv (PW JT8D-17AR)": {
+    "range": 5473,
+    "runway": 7550,
+    "speed": 858,
+    "pax": 102,
+    "fuel": 13.39,
+    "price": 1893733
+  },
+  "B737-200Adv (PW JT8D-17R)": {
+    "range": 5473,
+    "runway": 7550,
+    "speed": 757,
+    "pax": 102,
+    "fuel": 11.83,
+    "price": 1893733
+  },
+  "B737-200": {
+    "range": 4170,
+    "runway": 7550,
+    "speed": 958,
+    "pax": 130,
+    "fuel": 13.08,
+    "price": 2217362
+  },
+  "B717-200 (RR BR715-A1-30)": {
+    "range": 3815,
+    "runway": 6450,
+    "speed": 761,
+    "pax": 134,
+    "fuel": 8.64,
+    "price": 2238611
+  },
+  "B717-200 (RR BR715-C1-30)": {
+    "range": 3815,
+    "runway": 6450,
+    "speed": 761,
+    "pax": 134,
+    "fuel": 8.46,
+    "price": 2238611
+  },
+  "B737-600": {
+    "range": 5648,
+    "runway": 7550,
+    "speed": 762,
+    "pax": 110,
+    "fuel": 11.4,
+    "price": 2460985
+  },
+  "B737-300": {
+    "range": 4707,
+    "runway": 7550,
+    "speed": 795,
+    "pax": 128,
+    "fuel": 12.0,
+    "price": 2464401
+  },
+  "B737-700C": {
+    "range": 5940,
+    "runway": 7550,
+    "speed": 831,
+    "pax": 120,
+    "fuel": 11.11,
+    "price": 3118288
+  },
+  "B737-400": {
+    "range": 4010,
+    "runway": 7550,
+    "speed": 733,
+    "pax": 159,
+    "fuel": 14.0,
+    "price": 3282313
+  },
+  "B737-700": {
+    "range": 6230,
+    "runway": 7550,
+    "speed": 762,
+    "pax": 149,
+    "fuel": 10.45,
+    "price": 4085576
+  },
+  "B707": {
+    "range": 9913,
+    "runway": 6450,
+    "speed": 1006,
+    "pax": 144,
+    "fuel": 18.36,
+    "price": 4085576
+  },
+  "B737-800": {
+    "range": 7000,
+    "runway": 7550,
+    "speed": 725,
+    "pax": 184,
+    "fuel": 9.4,
+    "price": 4407858
+  },
+  "B727-200": {
+    "range": 4450,
+    "runway": 6450,
+    "speed": 972,
+    "pax": 189,
+    "fuel": 15.15,
+    "price": 4883110
+  },
+  "B737-900": {
+    "range": 3815,
+    "runway": 7550,
+    "speed": 836,
+    "pax": 177,
+    "fuel": 10.1,
+    "price": 5535200
+  },
+  "B737-700ER": {
+    "range": 10200,
+    "runway": 7550,
+    "speed": 770,
+    "pax": 126,
+    "fuel": 10.78,
+    "price": 5656525
+  },
+  "B757-300 (PW2037)": {
+    "range": 6421,
+    "runway": 7800,
+    "speed": 842,
+    "pax": 243,
+    "fuel": 15.81,
+    "price": 7002640
+  },
+  "B757-300 (PW2040)": {
+    "range": 6421,
+    "runway": 7800,
+    "speed": 774,
+    "pax": 243,
+    "fuel": 15.3,
+    "price": 7002640
+  },
+  "B757-300 (PW2043)": {
+    "range": 6421,
+    "runway": 7800,
+    "speed": 867,
+    "pax": 243,
+    "fuel": 18.36,
+    "price": 7002640
+  },
+  "B757-300 (RR RB211)": {
+    "range": 6421,
+    "runway": 7800,
+    "speed": 799,
+    "pax": 243,
+    "fuel": 17.0,
+    "price": 7002640
+  },
+  "B767-200 (CF6-80A)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 1013,
+    "pax": 224,
+    "fuel": 18.19,
+    "price": 7882711
+  },
+  "B767-200 (PW 4000)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 950,
+    "pax": 224,
+    "fuel": 17.85,
+    "price": 7882711
+  },
+  "B767-200 (CF6-80C3)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 931,
+    "pax": 224,
+    "fuel": 17.68,
+    "price": 7882711
+  },
+  "B767-200 (JT9D-7R4)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 895,
+    "pax": 224,
+    "fuel": 15.81,
+    "price": 7882711
+  },
+  "B737-900ER": {
+    "range": 5925,
+    "runway": 7550,
+    "speed": 831,
+    "pax": 215,
+    "fuel": 11.11,
+    "price": 9225912
+  },
+  "B757-200 (PW2037)": {
+    "range": 7222,
+    "runway": 7800,
+    "speed": 842,
+    "pax": 200,
+    "fuel": 11.16,
+    "price": 9723701
+  },
+  "B757-200 (PW2040)": {
+    "range": 7222,
+    "runway": 7800,
+    "speed": 774,
+    "pax": 200,
+    "fuel": 10.8,
+    "price": 9723701
+  },
+  "B757-200 (PW2043)": {
+    "range": 7222,
+    "runway": 7800,
+    "speed": 867,
+    "pax": 200,
+    "fuel": 12.96,
+    "price": 9723701
+  },
+  "B757-200 (RR RB211)": {
+    "range": 7222,
+    "runway": 7800,
+    "speed": 799,
+    "pax": 200,
+    "fuel": 12.0,
+    "price": 9723701
+  },
+  "B767-200ER (GE CF6-80C2)": {
+    "range": 12200,
+    "runway": 7800,
+    "speed": 995,
+    "pax": 224,
+    "fuel": 16.32,
+    "price": 14114834
+  },
+  "B767-200ER (PW4094)": {
+    "range": 12200,
+    "runway": 7800,
+    "speed": 977,
+    "pax": 224,
+    "fuel": 17.6,
+    "price": 14114834
+  },
+  "B737 MAX 7": {
+    "range": 6850,
+    "runway": 7300,
+    "speed": 881,
+    "pax": 160,
+    "fuel": 7.21,
+    "price": 17346513
+  },
+  "B737 MAX 8": {
+    "range": 6500,
+    "runway": 7500,
+    "speed": 881,
+    "pax": 180,
+    "fuel": 7.21,
+    "price": 18011300
+  },
+  "B737 MAX 9": {
+    "range": 7000,
+    "runway": 7550,
+    "speed": 881,
+    "pax": 200,
+    "fuel": 7.21,
+    "price": 18849600
+  },
+  "B787-8 (GE GEnx)": {
+    "range": 14500,
+    "runway": 9000,
+    "speed": 813,
+    "pax": 250,
+    "fuel": 14.4,
+    "price": 19411920
+  },
+  "B787-8 (RR Trent 1000)": {
+    "range": 14500,
+    "runway": 9000,
+    "speed": 822,
+    "pax": 250,
+    "fuel": 15.2,
+    "price": 19411920
+  },
+  "B737 MAX 10": {
+    "range": 7000,
+    "runway": 7600,
+    "speed": 881,
+    "pax": 225,
+    "fuel": 7.21,
+    "price": 19649600
+  },
+  "B767-300 (CF6-80A)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 945,
+    "pax": 269,
+    "fuel": 20.33,
+    "price": 23356202
+  },
+  "B767-300 (CF6-80C3)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 868,
+    "pax": 269,
+    "fuel": 19.76,
+    "price": 23356202
+  },
+  "B767-300 (JT9D-7R4)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 834,
+    "pax": 269,
+    "fuel": 17.67,
+    "price": 23356202
+  },
+  "B767-300 (PW 4000)": {
+    "range": 7300,
+    "runway": 7800,
+    "speed": 885,
+    "pax": 269,
+    "fuel": 19.95,
+    "price": 23356202
+  },
+  "B767-300ER (GE CF6-80C2)": {
+    "range": 11065,
+    "runway": 7800,
+    "speed": 928,
+    "pax": 269,
+    "fuel": 20.4,
+    "price": 33435451
+  },
+  "B767-300ER (PW4094)": {
+    "range": 11065,
+    "runway": 7800,
+    "speed": 911,
+    "pax": 269,
+    "fuel": 22.0,
+    "price": 33435451
+  },
+  "B767-300ER (RR RB211-524H)": {
+    "range": 11065,
+    "runway": 7800,
+    "speed": 936,
+    "pax": 269,
+    "fuel": 20.2,
+    "price": 33435451
+  },
+  "B767-400ER (GE CF6-80C2)": {
+    "range": 10415,
+    "runway": 7800,
+    "speed": 928,
+    "pax": 304,
+    "fuel": 21.42,
+    "price": 33694208
+  },
+  "B767-400ER (PW4094)": {
+    "range": 10415,
+    "runway": 7800,
+    "speed": 911,
+    "pax": 304,
+    "fuel": 23.1,
+    "price": 33694208
+  },
+  "B747SP (PW JT9D7A)": {
+    "range": 10800,
+    "runway": 7545,
+    "speed": 980,
+    "pax": 350,
+    "fuel": 20.24,
+    "price": 40824000
+  },
+  "B747SP (PW JT9D7F)": {
+    "range": 10800,
+    "runway": 7545,
+    "speed": 970,
+    "pax": 350,
+    "fuel": 20.24,
+    "price": 40824000
+  },
+  "B747SP (RR RB211-524)": {
+    "range": 10800,
+    "runway": 7545,
+    "speed": 990,
+    "pax": 350,
+    "fuel": 21.78,
+    "price": 40824000
+  },
+  "B747SP (RR RB211-524B)": {
+    "range": 10800,
+    "runway": 7545,
+    "speed": 980,
+    "pax": 350,
+    "fuel": 21.12,
+    "price": 40824000
+  },
+  "B747-100 (GE CF645A2)": {
+    "range": 9800,
+    "runway": 10250,
+    "speed": 938,
+    "pax": 366,
+    "fuel": 23.32,
+    "price": 44393752
+  },
+  "B747-100 (PW JT9D7A)": {
+    "range": 9800,
+    "runway": 10250,
+    "speed": 875,
+    "pax": 366,
+    "fuel": 20.24,
+    "price": 44393752
+  },
+  "B747-100 (PW JT9D7F)": {
+    "range": 9800,
+    "runway": 10250,
+    "speed": 866,
+    "pax": 366,
+    "fuel": 20.24,
+    "price": 44393752
+  },
+  "B747-200B (CF6-50E2)": {
+    "range": 12700,
+    "runway": 10250,
+    "speed": 839,
+    "pax": 366,
+    "fuel": 21.34,
+    "price": 57530678
+  },
+  "B747-200B (JT9D-7R4J2)": {
+    "range": 12700,
+    "runway": 10250,
+    "speed": 822,
+    "pax": 366,
+    "fuel": 21.34,
+    "price": 57530678
+  },
+  "B747-200B (RB211-524D4)": {
+    "range": 12700,
+    "runway": 10250,
+    "speed": 822,
+    "pax": 366,
+    "fuel": 21.34,
+    "price": 57530678
+  },
+  "B777-200 (GE90-77B)": {
+    "range": 9695,
+    "runway": 9000,
+    "speed": 815,
+    "pax": 400,
+    "fuel": 17.46,
+    "price": 60803647
+  },
+  "B777-200 (Trent 877)": {
+    "range": 9695,
+    "runway": 9000,
+    "speed": 950,
+    "pax": 400,
+    "fuel": 18.54,
+    "price": 60803647
+  },
+  "B777-200 (PW 4077)": {
+    "range": 9695,
+    "runway": 9000,
+    "speed": 824,
+    "pax": 400,
+    "fuel": 17.82,
+    "price": 60803647
+  },
+  "B747-300 (CF6-80C2B1)": {
+    "range": 12400,
+    "runway": 10250,
+    "speed": 884,
+    "pax": 412,
+    "fuel": 20.68,
+    "price": 63231515
+  },
+  "B747-300 (JT9D-7R4G2)": {
+    "range": 12400,
+    "runway": 10250,
+    "speed": 973,
+    "pax": 412,
+    "fuel": 22.66,
+    "price": 63231515
+  },
+  "B747-300 (RB211-524D4)": {
+    "range": 12400,
+    "runway": 10250,
+    "speed": 822,
+    "pax": 412,
+    "fuel": 21.34,
+    "price": 63231515
+  },
+  "B777-200LR (GE90-110B)": {
+    "range": 14500,
+    "runway": 11000,
+    "speed": 878,
+    "pax": 300,
+    "fuel": 17.86,
+    "price": 65912406
+  },
+  "B777-200LR (GE90-115B)": {
+    "range": 14500,
+    "runway": 11000,
+    "speed": 986,
+    "pax": 300,
+    "fuel": 19.19,
+    "price": 65912406
+  },
+  "B777-300ER": {
+    "range": 14685,
+    "runway": 11000,
+    "speed": 1036,
+    "pax": 350,
+    "fuel": 19.19,
+    "price": 68243786
+  },
+  "B787-9 (GE GEnx)": {
+    "range": 14500,
+    "runway": 9000,
+    "speed": 813,
+    "pax": 290,
+    "fuel": 14.4,
+    "price": 69997851
+  },
+  "B787-9 (RR Trent 1000)": {
+    "range": 14500,
+    "runway": 9000,
+    "speed": 822,
+    "pax": 290,
+    "fuel": 15.2,
+    "price": 69997851
+  },
+  "B747-400C (CF6-80C2B5F)": {
+    "range": 13360,
+    "runway": 10250,
+    "speed": 819,
+    "pax": 410,
+    "fuel": 19.32,
+    "price": 72722924
+  },
+  "B747-400C (PW4062)": {
+    "range": 13360,
+    "runway": 10250,
+    "speed": 883,
+    "pax": 410,
+    "fuel": 20.16,
+    "price": 72722924
+  },
+  "B747-400C (RB211-524H2-T)": {
+    "range": 13360,
+    "runway": 10250,
+    "speed": 1010,
+    "pax": 410,
+    "fuel": 22.05,
+    "price": 72722924
+  },
+  "B787-10 (GE GEnx)": {
+    "range": 12000,
+    "runway": 8000,
+    "speed": 860,
+    "pax": 440,
+    "fuel": 18.62,
+    "price": 72795638
+  },
+  "B787-10 (RR Trent 1000)": {
+    "range": 12000,
+    "runway": 8000,
+    "speed": 860,
+    "pax": 440,
+    "fuel": 18.05,
+    "price": 72795638
+  },
+  "B777-8X": {
+    "range": 16100,
+    "runway": 9000,
+    "speed": 951,
+    "pax": 350,
+    "fuel": 19.6,
+    "price": 77983382
+  },
+  "B747-400D (CF6-80C2B1F)": {
+    "range": 2905,
+    "runway": 10250,
+    "speed": 846,
+    "pax": 568,
+    "fuel": 20.24,
+    "price": 80125136
+  },
+  "B747-400D (PW 4062)": {
+    "range": 2905,
+    "runway": 10250,
+    "speed": 846,
+    "pax": 568,
+    "fuel": 20.24,
+    "price": 80125136
+  },
+  "B777-200ER (GE90-94B)": {
+    "range": 14260,
+    "runway": 11000,
+    "speed": 842,
+    "pax": 400,
+    "fuel": 17.67,
+    "price": 84172921
+  },
+  "B777-200ER (PW 4090)": {
+    "range": 14260,
+    "runway": 11000,
+    "speed": 860,
+    "pax": 400,
+    "fuel": 17.86,
+    "price": 84172921
+  },
+  "B777-200ER (Trent 895)": {
+    "range": 14260,
+    "runway": 11000,
+    "speed": 1014,
+    "pax": 400,
+    "fuel": 19.19,
+    "price": 84172921
+  },
+  "B777-300 (GE 90-94B)": {
+    "range": 11135,
+    "runway": 9000,
+    "speed": 878,
+    "pax": 451,
+    "fuel": 17.67,
+    "price": 89987157
+  },
+  "B777-300 (PW 4098)": {
+    "range": 11135,
+    "runway": 9000,
+    "speed": 824,
+    "pax": 451,
+    "fuel": 19.0,
+    "price": 89987157
+  },
+  "B777-300 (Trent 892)": {
+    "range": 11135,
+    "runway": 9000,
+    "speed": 833,
+    "pax": 451,
+    "fuel": 18.62,
+    "price": 89987157
+  },
+  "B777-9X": {
+    "range": 14500,
+    "runway": 9000,
+    "speed": 931,
+    "pax": 406,
+    "fuel": 21.56,
+    "price": 91150989
+  },
+  "B747-400 (GE CF6-80C2b5F)": {
+    "range": 14500,
+    "runway": 10250,
+    "speed": 947,
+    "pax": 416,
+    "fuel": 21.21,
+    "price": 92136845
+  },
+  "B747-400 (RR RB211-524)": {
+    "range": 14500,
+    "runway": 10250,
+    "speed": 884,
+    "pax": 416,
+    "fuel": 20.79,
+    "price": 92136845
+  },
+  "B747-400 (PW4056)": {
+    "range": 14500,
+    "runway": 10250,
+    "speed": 982,
+    "pax": 416,
+    "fuel": 22.89,
+    "price": 92136845
+  },
+  "B747-400 (PW4062)": {
+    "range": 14500,
+    "runway": 10250,
+    "speed": 866,
+    "pax": 416,
+    "fuel": 20.16,
+    "price": 92136845
+  },
+  "B747-400ER (CF6-80C2B5F)": {
+    "range": 14500,
+    "runway": 10250,
+    "speed": 804,
+    "pax": 416,
+    "fuel": 19.32,
+    "price": 97556659
+  },
+  "B747-400ER (PW4062)": {
+    "range": 14500,
+    "runway": 10250,
+    "speed": 866,
+    "pax": 416,
+    "fuel": 20.16,
+    "price": 97556659
+  },
+  "B747-8": {
+    "range": 14815,
+    "runway": 10250,
+    "speed": 1097,
+    "pax": 467,
+    "fuel": 21.84,
+    "price": 121097727
+  },
+  "B777-300LR": {
+    "range": 14500,
+    "runway": 11000,
+    "speed": 1026,
+    "pax": 451,
+    "fuel": 21.63,
+    "price": 131844032
   }
 }
